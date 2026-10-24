@@ -1,0 +1,1 @@
+const DMFIRST_REGISTER_URL="https://dmfirst21.com/#/register?invitationCode=45216109019";document.addEventListener("DOMContentLoaded",()=>document.querySelectorAll("[data-conversion]").forEach(a=>a.href=DMFIRST_REGISTER_URL));
