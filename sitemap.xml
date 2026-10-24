@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://dmfirst-gamee.github.io/Register/</loc></url>
+  <url><loc>https://dmfirst-gamee.github.io/Register/dmfirst-register/</loc></url>
+  <url><loc>https://dmfirst-gamee.github.io/Register/dmfirst-login/</loc></url>
+  <url><loc>https://dmfirst-gamee.github.io/Register/games/colour-game-guide/</loc></url>
+  <url><loc>https://dmfirst-gamee.github.io/Register/dmfirst-app/</loc></url>
+  <url><loc>https://dmfirst-gamee.github.io/Register/wallet-and-withdrawal-guide/</loc></url>
+  <url><loc>https://dmfirst-gamee.github.io/Register/referral-and-promotions/</loc></url>
+  <url><loc>https://dmfirst-gamee.github.io/Register/games/</loc></url>
+  <url><loc>https://dmfirst-gamee.github.io/Register/about/</loc></url>
+  <url><loc>https://dmfirst-gamee.github.io/Register/contact/</loc></url>
+  <url><loc>https://dmfirst-gamee.github.io/Register/privacy-policy/</loc></url>
+  <url><loc>https://dmfirst-gamee.github.io/Register/terms-and-disclaimer/</loc></url>
+</urlset>
